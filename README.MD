@@ -1,3 +1,7 @@
+---
+## 🎯 公开挑战专区入口
+👉 **[点击查看挑战规则与提交说明](https://github.com/zydancing/zydancing/issues/1)**
+---
 # DS-HOA 原生AI安全防御架构
 
 🌌 **野生架构师原创底层安全革命方案**
