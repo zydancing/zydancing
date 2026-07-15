@@ -1,0 +1,5 @@
+from jianmu import JianMuEngine
+
+engine = JianMuEngine()
+result = engine.run_dual_entropy("质量产生引力，引力约束轨道运动")
+print(result)
